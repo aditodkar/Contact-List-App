@@ -1,0 +1,32 @@
+#dropdown{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#title{
+	padding-left: 150px;
+}
+
+.button .glyphicon-plus-sign{
+	font-size: 50px;
+	padding-left: 340px;
+	padding-top: 10px;
+}
+
+#search{
+	padding-top: 10px;
+}
+
+.contactDetail{
+	padding-top: 15px;
+}
+
+.form-group{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+form .btn-success{
+    margin-left: 20px;
+}
+
