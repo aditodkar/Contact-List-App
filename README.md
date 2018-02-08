@@ -1,5 +1,6 @@
 # Contact-List-App
 
+A simple CRUD web app using vanilla javascript and localstorage.
 
 # Screenshot:
 
