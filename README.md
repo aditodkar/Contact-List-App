@@ -24,3 +24,5 @@ Submit form:
 4) Filtering by groups
 
 5) Deleting
+
+6) Search by name 
